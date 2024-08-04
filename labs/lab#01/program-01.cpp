@@ -8,7 +8,7 @@ Question-01
  “We’re computer professionals. We cause accidents.”
 */
 
-
+// Solution
 #include <iostream>
 using namespace std;
 int main(){
